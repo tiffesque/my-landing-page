@@ -1,0 +1,44 @@
+body {
+	color: white;
+	background: url("https://a248.e.akamai.net/f/248/1673/2/photos3.meetupstatic.com/photos/event/7/7/9/2/600_435450610.jpeg");
+	background-size: cover;
+	font-family: arial;
+	text-align: center;
+}
+
+ul {
+	list-style-position: inside;
+	border: 10px solid white
+}
+
+img {
+	border: 10px solid #EF146D;
+    border-radius: 100px;
+}
+
+input[type="submit"] {
+
+}
+
+#excited {
+	font-weight: bold;
+	color: red;
+}
+
+#left-div {
+	height: 100px;
+	width: 49%;
+	background-color: blue;
+}
+
+#right-div {
+	height: 100px;
+	width: 49%;
+	background-color: red;
+	display: inline-block;
+}
+
+.navitems
+
+
+header {}
